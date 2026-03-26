@@ -1,6 +1,9 @@
 ---
 title: "Accessing Statistics Canada’s Socioeconomic Time Series Data (formerly CANSIM)"
 layout: "home"
+maintainer:
+    - name: Leanne Trimble
+      link: https://library.utoronto.ca/staff/leanne-trimble 
 description: "This guide is primarily designed to help users unfamiliar with the CANSIM database find and download data. Note: This guide outlines how to search for CANSIM data on the Statistics Canada website. University of Toronto faculty, staff, and students may also download CANSIM series for free via CHASS. You will need to be using a UofT IP address to access CHASS."
 created_date: 2017-05-05
 permalink: "/"  #! Remove this if not the homepage
@@ -46,7 +49,7 @@ II. From the list, choose *Prices and price indexes* (there are 461 tables on pr
 
 <img src='{{ '/assets/images/AccessStatsCanNew2.jpg' | relative_url }}' alt='' title='' width='986' height='1169' />
 
-III. Since we are interested in the tables for the Consumer Price Index (CPI) statistics, select*Consumer price indexes,*then select the Tables tab.
+III. Since we are interested in the tables for the Consumer Price Index (CPI) statistics, select *Consumer price indexes,* then select the Tables tab.
 
 <img src='{{ '/assets/images/AccessStatsCanNew3.jpg' | relative_url }}' alt='' title='' width='1094' height='806' />
 
@@ -98,4 +101,4 @@ That concludes this brief guide on downloading CANSIM data from Statistics Canad
 
  
 
-Technique: [Searching for maps and data](/technique/searching-maps-and-data)
+Technique: [Searching for maps and data](https://mdl.library.utoronto.ca/technique/searching-maps-and-data)
