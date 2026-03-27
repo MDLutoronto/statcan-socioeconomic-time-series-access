@@ -1,6 +1,9 @@
 ---
 title: "Accessing Statistics Canada’s Socioeconomic Time Series Data (formerly CANSIM)"
 layout: "home"
+maintainer:
+    - name: Leanne Trimble
+      link: https://library.utoronto.ca/staff/leanne-trimble 
 description: "This guide is primarily designed to help users unfamiliar with the CANSIM database find and download data. Note: This guide outlines how to search for CANSIM data on the Statistics Canada website. University of Toronto faculty, staff, and students may also download CANSIM series for free via CHASS. You will need to be using a UofT IP address to access CHASS."
 created_date: 2017-05-05
 permalink: "/"  #! Remove this if not the homepage
@@ -14,7 +17,7 @@ Note: This guide outlines how to search for CANSIM data on the Statistics Canada
 
 **1. Getting Started**
 
-***a.***This tutorial covers how to search and retrieve data from Statistics Canada’s main socioeconomic time series database. The site contains most of the aggregate data collected by Statistics Canada on a regular basis such as data from the Consumer Price Index Survey, the Labour Force Survey, or the National Income and Expenditure accounts.
+***a.*** This tutorial covers how to search and retrieve data from Statistics Canada’s main socioeconomic time series database. The site contains most of the aggregate data collected by Statistics Canada on a regular basis such as data from the Consumer Price Index Survey, the Labour Force Survey, or the National Income and Expenditure accounts.
 
 **NOTE:** The data on this site was previously referred to as **CANSIM** data.
 
@@ -28,7 +31,7 @@ Access the data by going to the [Statistics Canada Website](https://www.statcan.
 
 ***a. Classification***
 
-Data are classified by tables and series. A table is the largest unit and contains many series. For instance, there are over 300 tables from the Labour Force Survey. One of these is called *Unemployment rate, participation rate and employment rate by educational attainment, annual*” (Table 14-10-0020-01) and contains over 26 000 series. A series is, for instance, the full-time employment of male teachers and professors in Canada from 1987-2015 (series v2369249).
+Data are classified by tables and series. A table is the largest unit and contains many series. For instance, there are over 300 tables from the Labour Force Survey. One of these is called *Unemployment rate, participation rate and employment rate by educational attainment, annual* (Table 14-10-0020-01) and contains over 26 000 series. A series is, for instance, the full-time employment of male teachers and professors in Canada from 1987-2015 (series v2369249).
 
 ***b. Searching by survey, table, or series number***
 
@@ -46,25 +49,25 @@ II. From the list, choose *Prices and price indexes* (there are 461 tables on pr
 
 <img src='{{ '/assets/images/AccessStatsCanNew2.jpg' | relative_url }}' alt='' title='' width='986' height='1169' />
 
-III. Since we are interested in the tables for the Consumer Price Index (CPI) statistics, select*Consumer price indexes,*then select the Tables tab.
+III. Since we are interested in the tables for the Consumer Price Index (CPI) statistics, select *Consumer price indexes,* then select the Tables tab.
 
 <img src='{{ '/assets/images/AccessStatsCanNew3.jpg' | relative_url }}' alt='' title='' width='1094' height='806' />
 
 IV. Then, scroll down to the bottom of the page, navigate to Page 3, and the third item down the tables list is the one that we are after, so we simply select that one to open the CPI table. This table is called *'Consumer Price Index (CPI) statistics, alternative measures, unadjusted and seasonally adjusted, Bank of Canada'*
 
-NOTE: to those familiar with Statistics Canada's old CANSIM tables, notice that, where applicable, the website refers to a CANSIM number for the table. In the case of this particular CPI statistics table, the old CANSIM number was*176-0003.*
+NOTE: to those familiar with Statistics Canada's old CANSIM tables, notice that, where applicable, the website refers to a CANSIM number for the table. In the case of this particular CPI statistics table, the old CANSIM number was *176-0003.*
 
 <img src='{{ '/assets/images/AccessStatsCanNew4.jpg' | relative_url }}' alt='' title='' width='936' height='1274' />
 
 **3. Playing with Data**
 
-We have opened the table for “Consumer Price Index (CPI) statistics, alternative measures, unadjusted and seasonally adjusted, Bank of Canada.” The table will cover numerous years, and covers both the index itself and an inverse percentage value on a month\-to\-month basis, with the most recent few months displayed. We are are interested in finding the quarterly inflation rate for Canada from 2017 to 2022\.
+We have opened the table for “Consumer Price Index (CPI) statistics, alternative measures, unadjusted and seasonally adjusted, Bank of Canada.” The table will cover numerous years, and covers both the index itself and an inverse percentage value on a month-to-month basis, with the most recent few months displayed. We are are interested in finding the quarterly inflation rate for Canada from 2017 to 2022.
 
-By default, all the active series in the table are selected. So, to choose which series to download, select*Add/Remove data*.
+By default, all the active series in the table are selected. So, to choose which series to download, select *Add/Remove data*.
 
 1. Select *Geography*. The series are only available for all Canada. We have nothing to do.
 2. Select *Alternative measures*. Different measures of the CPI are available and some series are not collected anymore (indicated by **(Terminated)**). Since we are interested in the simple inflation rate, select the series *Consumer Price Index (CPI) excluding food, energy and the effect of indirect taxes, seasonally adjusted*. Deselect any others and hit *Apply.*
-3. Input the time frame by clicking on *Reference period*, selecting from January 2017 to January 2022, then hit *Apply*. Immediately, we are seeing the resulting CPI data, ranging from Jan. 2017 through Jan. 2022\.
+3. Input the time frame by clicking on *Reference period*, selecting from January 2017 to January 2022, then hit *Apply*. Immediately, we are seeing the resulting CPI data, ranging from Jan. 2017 through Jan. 2022.
 
 <img src='{{ '/assets/images/AccessStatsCanNew5.jpg' | relative_url }}' alt='' title='' width='1163' height='775' />
 
