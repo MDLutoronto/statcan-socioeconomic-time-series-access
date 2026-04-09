@@ -96,9 +96,3 @@ Then click on the first option: *CSV, download as displayed*. You can also choos
 That concludes this brief guide on downloading CANSIM data from Statistics Canada's website. If you have any questions regarding the guide, or would like some help with finding and downloading Statistics Canada data, please feel free to reach out to the Map and Data Library. Our contact form can be found [here](https://mdl.library.utoronto.ca/about/contact-form).
 
 [https://mdl.library.utoronto.ca/about/contact-form&nbsp](https://mdl.library.utoronto.ca/about/contact-form&nbsp);
-
- 
-
- 
-
-Technique: [Searching for maps and data](/technique/searching-maps-and-data)
