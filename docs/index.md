@@ -97,8 +97,4 @@ That concludes this brief guide on downloading CANSIM data from Statistics Canad
 
 [https://mdl.library.utoronto.ca/about/contact-form&nbsp](https://mdl.library.utoronto.ca/about/contact-form&nbsp);
 
- 
-
- 
-
-Technique: [Searching for maps and data](/technique/searching-maps-and-data)
+Technique: [Searching for maps and data](https://mdlutoronto.github.io/tutorials-search/?technique=Searching+for+maps+and+data)
