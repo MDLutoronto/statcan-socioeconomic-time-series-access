@@ -25,7 +25,7 @@ Note: This guide outlines how to search for CANSIM data on the Statistics Canada
 
 Access the data by going to the [Statistics Canada Website](https://www.statcan.gc.ca/eng/start), and selecting *Access our Data*.
 
-<img src='{{ '/assets/images/AccessStatsCanNew1.jpg' | relative_url }}' alt='"Click on 'Access our Data' after opening Statistics Canada's home page"' title='' width='1109' height='1176' />
+<img src='{{ '/assets/images/AccessStatsCanNew1.jpg' | relative_url }}' alt="Click on 'Access our Data' after opening Statistics Canada's home page" title='' width='1109' height='1176' />
 
 **2. Searching for Data**
 
