@@ -13,7 +13,7 @@ permalink: "/"  #! Remove this if not the homepage
 
 This guide is primarily designed to help users unfamiliar with the CANSIM database find and download data.
 
-Note: This guide outlines how to search for CANSIM data on the Statistics Canada website. University of Toronto faculty, staff, and students may also [download CANSIM series for free via CHASS](http://mdl.library.utoronto.ca/technology/tutorials/accessing-cansim-data-though-chass). You will need to be using a UofT IP address to access CHASS.
+Note: This guide outlines how to search for CANSIM data on the Statistics Canada website. University of Toronto faculty, staff, and students may also [download CANSIM series for free via CHASS](https://mdlutoronto.github.io/chass-access-cansim-data/). You will need to be using a UofT IP address to access CHASS.
 
 **1. Getting Started**
 
@@ -93,8 +93,9 @@ Then click on the first option: *CSV, download as displayed*. You can also choos
 
 <img src='{{ '/assets/images/AccessStatsCanNew9.jpg' | relative_url }}' alt='' title='' width='1187' height='1261' />
 
-That concludes this brief guide on downloading CANSIM data from Statistics Canada's website. If you have any questions regarding the guide, or would like some help with finding and downloading Statistics Canada data, please feel free to reach out to the Map and Data Library. Our contact form can be found [here](https://mdl.library.utoronto.ca/about/contact-form).
+That concludes this brief guide on downloading CANSIM data from Statistics Canada's website. If you have any questions regarding the guide, or would like some help with finding and downloading Statistics Canada data, please feel free to reach out to the Map and Data Library. Our contact form can be found [here](<img width="368" height="29" alt="image" src="https://github.com/user-attachments/assets/f97430e8-9b64-48fc-adc9-92a9a8d93ca5" /><img width="368" height="29" alt="image" src="https://github.com/user-attachments/assets/81f1c59f-412d-4e88-a95b-bb66c9899e27" />
+).
 
-[https://mdl.library.utoronto.ca/about/contact-form&nbsp](https://mdl.library.utoronto.ca/about/contact-form&nbsp);
+[https://library.utoronto.ca/contact-us/data-maps](https://library.utoronto.ca/contact-us/data-maps);
 
 **Technique:** [Searching for maps and data](https://mdlutoronto.github.io/tutorials-search/?technique=Searching+for+maps+and+data)
